@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidschupauk
 - 👀 I’m interested in Football and Programming
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning FrontEnd
 - 💞️ I’m looking to collaborate on diverse proyects
 - 📫 You can reach me at @davidschupauk
 
